@@ -17,7 +17,7 @@
 
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MarioNageh&bg_color=0d1117&color=708090&line=139ae1&point=ffffff&area=true&hide_border=true)](https://github.com/Abodawoud/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MarioNageh&bg_color=0d1117&color=708090&line=139ae1&point=ffffff&area=true&hide_border=true)](https://github.com/MarioNageh/github-readme-activity-graph)
 
 <div width="100%" align="center">
   <img  src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MarioNageh&theme=transparent"/>
